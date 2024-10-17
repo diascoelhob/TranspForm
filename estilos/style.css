@@ -60,7 +60,7 @@ div#login > p {
 }
 
 div#login > input {
-    width: 450px;
+    width: 90%;
     height: 60px;
     padding: 13px 15px;
     border: 1px solid black;
