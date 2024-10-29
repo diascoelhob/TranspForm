@@ -26,7 +26,7 @@ main {
 }
 
 header > img#favicon {
-    height: 60px;
+    height: 100px;
     margin-bottom: 20px;
 }
 
@@ -49,6 +49,7 @@ main > input#idemail {
 
 main > input#idemail:hover {
     border: 1px solid #459DBF;
+    box-sizing: border-box;
 }
 
 main a {
